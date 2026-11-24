@@ -1,0 +1,6 @@
+{
+  "name": "auto-continue-5h",
+  "version": "0.1.0",
+  "description": "After a 5-hour usage limit, waits for the reset and types \"continue\"",
+  "types": "./types/index.d.ts"
+}

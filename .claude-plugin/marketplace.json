@@ -1,0 +1,5 @@
+{
+  "name": "auto-continue-5h",
+  "owner": { "name": "carbongotfound" },
+  "plugins": [{ "name": "auto-continue-5h", "source": "./" }]
+}
